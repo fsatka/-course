@@ -1,0 +1,6 @@
+C:\Users\Рома\Desktop\ComplexNumb\ClassComplex\bin\Debug\ClassComplex.dll.config
+C:\Users\Рома\Desktop\ComplexNumb\ClassComplex\bin\Debug\ClassComplex.dll
+C:\Users\Рома\Desktop\ComplexNumb\ClassComplex\bin\Debug\ClassComplex.pdb
+C:\Users\Рома\Desktop\ComplexNumb\ClassComplex\obj\Debug\ClassComplex.dll
+C:\Users\Рома\Desktop\ComplexNumb\ClassComplex\obj\Debug\ClassComplex.pdb
+C:\Users\Рома\Desktop\ComplexNumb\ClassComplex\obj\Debug\ClassComplex.csprojResolveAssemblyReference.cache
