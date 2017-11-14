@@ -1,0 +1,9 @@
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\bin\Debug\Shape.exe.config
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\bin\Debug\Shape.exe
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\bin\Debug\Shape.pdb
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\bin\Debug\ClassShape.dll
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\bin\Debug\ClassShape.pdb
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\bin\Debug\ClassShape.dll.config
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\obj\Debug\Shape.exe
+c:\users\рома\documents\visual studio 2017\Projects\Shape\Shape\obj\Debug\Shape.pdb
