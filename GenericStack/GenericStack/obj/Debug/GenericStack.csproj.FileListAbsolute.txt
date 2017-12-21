@@ -1,0 +1,12 @@
+C:\Users\Рома\Desktop\GenericStack\GenericStack\bin\Debug\GenericStack.exe.config
+C:\Users\Рома\Desktop\GenericStack\GenericStack\bin\Debug\GenericStack.exe
+C:\Users\Рома\Desktop\GenericStack\GenericStack\bin\Debug\GenericStack.pdb
+C:\Users\Рома\Desktop\GenericStack\GenericStack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache
+C:\Users\Рома\Desktop\GenericStack\GenericStack\obj\Debug\GenericStack.exe
+C:\Users\Рома\Desktop\GenericStack\GenericStack\obj\Debug\GenericStack.pdb
+C:\Users\Рома\Desktop\С#\GenericStack\GenericStack\bin\Debug\GenericStack.exe.config
+C:\Users\Рома\Desktop\С#\GenericStack\GenericStack\bin\Debug\GenericStack.exe
+C:\Users\Рома\Desktop\С#\GenericStack\GenericStack\bin\Debug\GenericStack.pdb
+C:\Users\Рома\Desktop\С#\GenericStack\GenericStack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache
+C:\Users\Рома\Desktop\С#\GenericStack\GenericStack\obj\Debug\GenericStack.exe
+C:\Users\Рома\Desktop\С#\GenericStack\GenericStack\obj\Debug\GenericStack.pdb
