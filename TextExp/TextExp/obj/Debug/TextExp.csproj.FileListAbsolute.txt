@@ -1,0 +1,6 @@
+C:\Users\Рома\Desktop\С#\TextExp\TextExp\bin\Debug\TextExp.exe.config
+C:\Users\Рома\Desktop\С#\TextExp\TextExp\bin\Debug\TextExp.exe
+C:\Users\Рома\Desktop\С#\TextExp\TextExp\bin\Debug\TextExp.pdb
+C:\Users\Рома\Desktop\С#\TextExp\TextExp\obj\Debug\TextExp.csprojResolveAssemblyReference.cache
+C:\Users\Рома\Desktop\С#\TextExp\TextExp\obj\Debug\TextExp.exe
+C:\Users\Рома\Desktop\С#\TextExp\TextExp\obj\Debug\TextExp.pdb
