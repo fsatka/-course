@@ -33,7 +33,7 @@ namespace FileWatcher
             watcher.NotifyFilter = NotifyFilters.LastWrite
            | NotifyFilters.FileName | NotifyFilters.DirectoryName | NotifyFilters.CreationTime;
             
-            watcher.Filter = "*.txt";
+            watcher.Filter = "*.cs";
 
             //Подписываемся на события
             watcher.Changed += new FileSystemEventHandler(OnChanged2);
@@ -116,7 +116,7 @@ namespace FileWatcher
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write("RENAMED");
             Console.ForegroundColor = ConsoleColor.Gray;
-            Console.WriteLine(" | " + "File: {0} renamed to {1}", e.OldName, e.Name);
+            Console.WriteLine(" | " + "File: {0}  renamed to  {1}", e.OldName, e.Name);
             Console.WriteLine("+-" + "-".Times(DateTime.UtcNow.ToString().Length + 3 + 7) + "-+");
 
             StreamWriter st = File.AppendText(log_file);
