@@ -48,6 +48,7 @@ namespace TextExp
             return new int[] {total, phone_err, email_err};
         }
         //C:\Users\Рома\Desktop\Test.csv
+        
         static void Print(int[] numbers)
         {
             Console.WriteLine("+"+"-".Times(numbers[0].ToString().Length+14)+"+");
