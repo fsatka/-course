@@ -6,7 +6,7 @@ namespace GenericStack
     class Program
     {
         
-        static void Create<T>(Stack<T> stack, T[] mass)
+        static void CreateByArray<T>(Stack<T> stack, T[] mass)
             where T: ICloneable
         {
             foreach (T elem in mass)
@@ -20,9 +20,14 @@ namespace GenericStack
             Stack<string> StackStr = new Stack<string>();
             Stack<Complex> StackComplex = new Stack<Complex>();
 
-            Complex[] Z = {new Complex(1, -1), new Complex(1, 1), new Complex(-1, 1), new Complex(-1, -1)};
+            Complex[] Z = {
+                new Complex(1, -1), 
+                new Complex(1, 1), 
+                new Complex(-1, 1), 
+                new Complex(-1, -1)
+            };
 
-            Create<Complex>(StackComplex, Z);
+            CreateByArray(StackComplex, Z);
             Console.WriteLine("Выводим стэк из Complex:");
             StackComplex.Print();
 
@@ -33,14 +38,19 @@ namespace GenericStack
             Console.WriteLine("Pop:");
             StackComplex.Print();
             Console.WriteLine("-------------");
-            string[] Str = {"Лаковое покрытие","Внешене эрозиностойкое покрытие", "Кварцевая плитка", "Клеевой слой", "Металлическая обшивка", "Уносимая теплозащита (ПКТ-ФЛ)", "Металлическая рама"};
-            Create<string>(StackStr, Str);
+
+            string[] Str = {
+                "Лаковое покрытие",
+                "Внешене эрозиностойкое покрытие", 
+                "Кварцевая плитка", "Клеевой слой", 
+                "Металлическая обшивка", 
+                "Уносимая теплозащита (ПКТ-ФЛ)", 
+                "Металлическая рама"
+            };
+            CreateByArray(StackStr, Str);
             StackStr.Print();
             Console.WriteLine("Колличество компонентов обшивки = {0}", StackStr.Count());
             Console.ReadLine();
-
-
-
         }
     }
 }

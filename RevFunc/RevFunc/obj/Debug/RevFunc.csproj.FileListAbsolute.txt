@@ -1,6 +1,0 @@
-C:\Users\Рома\Documents\Visual Studio 2017\Projects\RevFunc\RevFunc\bin\Debug\RevFunc.exe.config
-C:\Users\Рома\Documents\Visual Studio 2017\Projects\RevFunc\RevFunc\bin\Debug\RevFunc.exe
-C:\Users\Рома\Documents\Visual Studio 2017\Projects\RevFunc\RevFunc\bin\Debug\RevFunc.pdb
-C:\Users\Рома\Documents\Visual Studio 2017\Projects\RevFunc\RevFunc\obj\Debug\RevFunc.csprojResolveAssemblyReference.cache
-C:\Users\Рома\Documents\Visual Studio 2017\Projects\RevFunc\RevFunc\obj\Debug\RevFunc.exe
-C:\Users\Рома\Documents\Visual Studio 2017\Projects\RevFunc\RevFunc\obj\Debug\RevFunc.pdb

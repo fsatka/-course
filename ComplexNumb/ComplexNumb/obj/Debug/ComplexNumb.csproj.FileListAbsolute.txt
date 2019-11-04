@@ -1,9 +1,0 @@
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\bin\Debug\ComplexNumb.exe.config
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\bin\Debug\ComplexNumb.exe
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\bin\Debug\ComplexNumb.pdb
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\obj\Debug\ComplexNumb.exe
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\obj\Debug\ComplexNumb.pdb
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\bin\Debug\ClassComplex.dll
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\bin\Debug\ClassComplex.pdb
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\bin\Debug\ClassComplex.dll.config
-C:\Users\Рома\Desktop\ComplexNumb\ComplexNumb\obj\Debug\ComplexNumb.csprojResolveAssemblyReference.cache

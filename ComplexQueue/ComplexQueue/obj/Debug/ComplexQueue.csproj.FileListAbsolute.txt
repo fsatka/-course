@@ -1,6 +1,0 @@
-C:\Users\Рома\Desktop\ComplexQueue\ComplexQueue\bin\Debug\ComplexQueue.exe.config
-C:\Users\Рома\Desktop\ComplexQueue\ComplexQueue\bin\Debug\ComplexQueue.exe
-C:\Users\Рома\Desktop\ComplexQueue\ComplexQueue\bin\Debug\ComplexQueue.pdb
-C:\Users\Рома\Desktop\ComplexQueue\ComplexQueue\obj\Debug\ComplexQueue.csprojResolveAssemblyReference.cache
-C:\Users\Рома\Desktop\ComplexQueue\ComplexQueue\obj\Debug\ComplexQueue.exe
-C:\Users\Рома\Desktop\ComplexQueue\ComplexQueue\obj\Debug\ComplexQueue.pdb
